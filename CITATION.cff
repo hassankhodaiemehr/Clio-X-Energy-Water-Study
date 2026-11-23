@@ -5,14 +5,14 @@ authors:
   - family-names: Nakamura
     given-names: Satoru
     affiliation: "Historiographical Institute, The University of Tokyo"
-  - family-names: Laatikainen
-    given-names: Gabriella
-    affiliation: "VTT Technical Research Centre of Finland"
-    orcid: "https://orcid.org/0000-0002-0647-5176"
   - family-names: Khodaiemehr
     given-names: Hassan
     affiliation: "School of Engineering, University of British Columbia"
     orcid: "https://orcid.org/0000-0002-0489-8546"
+  - family-names: Laatikainen
+    given-names: Gabriella
+    affiliation: "VTT Technical Research Centre of Finland"
+    orcid: "https://orcid.org/0000-0002-0647-5176"
   - family-names: Lemieux
     given-names: Victoria
     affiliation: "Institute for Computing, Information, and Cognitive Systems, University of British Columbia"
@@ -26,10 +26,10 @@ preferred-citation:
   authors:
     - family-names: Nakamura
       given-names: Satoru
-    - family-names: Laatikainen
-      given-names: Gabriella
     - family-names: Khodaiemehr
       given-names: Hassan
+    - family-names: Laatikainen
+      given-names: Gabriella
     - family-names: Lemieux
       given-names: Victoria
   collection-title: "2026 IEEE International Conference on Big Data (BigData), 11th Workshop on Computational Archival Science (CAS)"

@@ -2,13 +2,13 @@
 
 This repository contains the MATLAB simulation, scenario parameters and results accompanying the paper
 
-> S. Nakamura, G. Laatikainen, H. Khodaiemehr and V. Lemieux, "Making Archival AI Resource Use Visible: A Framework for Transaction-Level Energy and Water Estimation in Clio-X," in *Proc. 11th Workshop on Computational Archival Science (CAS), 2026 IEEE International Conference on Big Data (BigData)*, Phoenix, AZ, USA, Dec. 2026 (accepted).
+> S. Nakamura, H. Khodaiemehr, G. Laatikainen and V. Lemieux, "Making Archival AI Resource Use Visible: A Framework for Transaction-Level Energy and Water Estimation in Clio-X," in *Proc. 11th Workshop on Computational Archival Science (CAS), 2026 IEEE International Conference on Big Data (BigData)*, Phoenix, AZ, USA, Dec. 2026 (accepted).
 
 **Authors**
 
 - Satoru Nakamura, Historiographical Institute, The University of Tokyo, Tokyo, Japan (nakamura.satoru@mail.u-tokyo.ac.jp)
-- Gabriella Laatikainen, VTT Technical Research Centre of Finland, Jyväskylä, Finland (ORCID [0000-0002-0647-5176](https://orcid.org/0000-0002-0647-5176))
 - Hassan Khodaiemehr, School of Engineering, University of British Columbia, Kelowna, Canada (ORCID [0000-0002-0489-8546](https://orcid.org/0000-0002-0489-8546))
+- Gabriella Laatikainen, VTT Technical Research Centre of Finland, Jyväskylä, Finland (ORCID [0000-0002-0647-5176](https://orcid.org/0000-0002-0647-5176))
 - Victoria Lemieux, Institute for Computing, Information, and Cognitive Systems, University of British Columbia, Vancouver, Canada (ORCID [0000-0003-1339-6289](https://orcid.org/0000-0003-1339-6289))
 
 The study asks whether showing the estimated electricity and water use of a compute job helps a user choose a provider when sustainability is their stated priority. We investigate this question through a Monte Carlo simulation of provider choices. All selection rates reported here describe simulated decisions. A study with archival professionals is planned as a separate evaluation.
